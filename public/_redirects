@@ -2,8 +2,15 @@
 # These rewrite rules show clean URLs to users while serving .html files
 
 /about  /about.html  200
+/blog  /blog.html  200
+/blog/us-fashion-trends  /blog/us-fashion-trends.html  200
+/blog/comfort-all-day  /blog/comfort-all-day.html  200
+/blog/choosing-running-shoes  /blog/choosing-running-shoes.html  200
 /collections  /collections.html  200
 /contact  /contact.html  200
+/pricing-testimonials  /pricing-testimonials.html  200
+/video-gallery-pricing  /video-gallery-pricing.html  200
+/footwear-manufacturing  /footwear-manufacturing.html  200
 /  /index.html  200
 
 # 404 fallback
